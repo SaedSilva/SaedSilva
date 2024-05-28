@@ -1,11 +1,11 @@
 ## Sobre mim
 Olá, me chamo Saed sou estudante de Sistemas de Informação.
 
-| Linguagens | Roadmap %                       |
-|------------|---------------------------------|
-|JAVA        |![](https://geps.dev/progress/28)|
-|KOTLIN      |![](https://geps.dev/progress/28) |
-|JAVASCRIPT  |![](https://geps.dev/progress/0) |
+|                                          Imagem                                                    | Linguagens |
+|----------------------------------------------------------------------------------------------------|------------|
+|<p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=java"> </a> </p>            |JAVA        |
+|<p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=kotlin"> </a> </p>          |KOTLIN      |
+|<p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=javascript"> </a> </p>      |JAVASCRIPT  |
 
-Fonte: https://roadmap.sh/java
+
 
