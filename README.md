@@ -13,6 +13,6 @@
 | Database   | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"> </a> </p>      |
 |            |                                                                                                               |
 
-![Saed GitHub stats](https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br) <p></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaedSilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
+![Saed GitHub stats](https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&locale=pt-br&border_color=2D333A) <p></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaedSilva&layout=compact&theme=github_dark&locale=pt-br&border_color=2D333A)
 
