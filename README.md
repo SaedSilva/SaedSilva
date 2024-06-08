@@ -1,5 +1,5 @@
 # Sobre mim
-### Olá, me chamo Saed sou estudante de Sistemas de Informação.
+### Olá, me chamo Saed, sou estudante de Sistemas de Informação.
 ### Em busca da 1ª oportunidade de trabalhar com programação.
 
 
