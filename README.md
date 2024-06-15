@@ -9,7 +9,7 @@
 | BackEnd    | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=java,kotlin"> </a> </p>               |
 | FrontEnd   | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=javascript,css,html"> </a> </p>       | 
 | Mobile     | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"> </a> </p> |
-| Frameworks | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=spring"> </a> </p>                    |
+| Frameworks | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=spring,react"> </a> </p>              |
 | Database   | <p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"> </a> </p>      |
 |            |                                                                                                               |
 
