@@ -30,8 +30,8 @@
 </table>
 
 <div>
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&locale=pt-br&border_color=2D333A" />
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaedSilva&layout=compact&theme=github_dark&locale=pt-br&border_color=2D333A" />
+ <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&locale=pt-br&border_color=2D333A" />
+ <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaedSilva&layout=compact&theme=github_dark&locale=pt-br&border_color=2D333A" />
 </div>
 
 </div>
