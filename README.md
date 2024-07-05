@@ -5,7 +5,6 @@
 <h3>Em busca da 1ª oportunidade de trabalhar com programação.</h3>
 <p></p>
 
-
 <table>
   <tr align = center>
     <td>BackEnd</td>
@@ -28,6 +27,8 @@
     <td><p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"> </a> </p></td>
   </tr>
 </table>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6632b94596279862ae6a0952?variant=dark" alt="roadmap.sh"/></a>
 
 <div>
  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&locale=pt-br&border_color=2D333A" />
