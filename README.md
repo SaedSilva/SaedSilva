@@ -2,7 +2,7 @@
   
 <h1>Sobre mim</h1> 
 <h3>Olá, me chamo Saed, sou estudante de Sistemas de Informação.</h3>
-<h3>Em busca da 1ª oportunidade de trabalhar com programação.</h3>
+<h3>Foco em BackEnd usando Java e  Kotlin.</h3>
 <p></p>
 
 <table>
