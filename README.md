@@ -2,7 +2,8 @@
   
 <h1>Sobre mim</h1> 
 <h3>Olá, me chamo Saed, sou estudante de Sistemas de Informação.</h3>
-<h3>Foco em BackEnd usando Java e  Kotlin.</h3>
+<h3>Desenvolvedor BackEnd usando Java e Kotlin.</h3>
+<h3>Desenvolvedor Mobile usando Kotlin.</h3>
 <p></p>
 
 <table>
@@ -27,8 +28,6 @@
     <td><p align="center"> <a href=""> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"> </a> </p></td>
   </tr>
 </table>
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6632b94596279862ae6a0952?variant=dark" alt="roadmap.sh"/></a>
 
 <div>
  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&locale=pt-br&border_color=2D333A" />
