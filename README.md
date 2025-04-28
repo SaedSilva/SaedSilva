@@ -1,12 +1,26 @@
 <div align="center">
 
-<h1>About Me</h1>
-
-<h3>👋 Hello! I'm Saed Silva Sousa, a passionate Software Engineer.</h3>
-<h3>🎓 Information Systems student at UFPA | Participant in the BIOD project</h3>
+<!-- Badges de Tecnologias -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 <br/>
 
+<h1>About Me</h1>
+
+<h3>Hello! I'm Saed Silva Sousa, a Software Engineer.</h3>
+<h3>Information Systems student at UFPA | Participant in the BIOD project</h3>
+
+<br/>
+
+<!-- Tabela de Skills -->
 <table>
   <tr align="center">
     <td><b>BackEnd</b></td>
@@ -26,6 +40,7 @@
 
 <br/>
 
+<!-- GitHub Stats -->
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&border_color=2D333A" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaedSilva&layout=compact&theme=github_dark&border_color=2D333A" />
@@ -33,10 +48,12 @@
 
 <br/>
 
+<!-- LeetCode Card -->
 <img src="https://leetcard.jacoblin.cool/SaedSS?theme=nord" />
 
 <br/>
 
+<!-- Contato -->
 <h2>📫 Contact Me</h2>
 
 <p align="center">
