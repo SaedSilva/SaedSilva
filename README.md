@@ -53,6 +53,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github.com/saedsilva/saedsilva/blob/output/github-snake-dark.svg" />
+</div>
+
 <!-- Contato -->
 <h2>📫 Contact Me</h2>
 
