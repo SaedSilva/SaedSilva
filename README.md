@@ -17,7 +17,7 @@
 
 <h1>About Me</h1>
 
-<h3>Hello! I'm Saed Silva Sousa, a Software Engineer.</h3>
+<h3>Hello! I'm Saed Silva Sousa, a Software Developer.</h3>
 <h3>Information Systems student at UFPA | Participant in the BIOD project</h3>
 
 <br/>
