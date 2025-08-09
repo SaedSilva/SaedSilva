@@ -18,7 +18,6 @@
 <h1>About Me</h1>
 
 <h3>Hello! I'm Saed Silva Sousa, a Software Developer.</h3>
-<h3>Information Systems student at UFPA | Participant in the BIOD project</h3>
 
 <br/>
 
@@ -35,7 +34,7 @@
     <td><img src="https://skillicons.dev/icons?i=java,kotlin,rust" /></td>
     <td><img src="https://skillicons.dev/icons?i=javascript,typescript,css,html" /></td>
     <td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,ktor,react,angular,vue" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,ktor,react,vue" /></td>
     <td><img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" /></td>
   </tr>
 </table>
@@ -55,7 +54,7 @@
 <br/>
 
 <!-- LeetCode Card -->
-<img src="https://leetcard.jacoblin.cool/SaedSS?theme=nord" />
+<img src="https://leetcard.jacoblin.cool/SaedSS?theme=catppuccinMocha" />
 
 <br/>
 
