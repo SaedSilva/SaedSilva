@@ -45,8 +45,12 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SaedSilva&show_icons=true&theme=github_dark&border_color=2D333A" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaedSilva&layout=compact&theme=github_dark&border_color=2D333A" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/SaedSilva?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/SaedSilva">
+</picture>
 
 <br/>
 
